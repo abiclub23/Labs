@@ -3,11 +3,7 @@ html, body
     height: 100%;
 }
 
-.btn-twitter, .btn-twitter:hover
-{
-    color: #ffffff;
-    background-color: #55acee;
-}
+
 
 #wrap
 {

@@ -26,7 +26,7 @@
 }
 
  @font-face {
-    font-family: myFirstFont;
+    font-family: texasFont;
     src: url("../fonts/CAPTH.ttf");
 }
 
@@ -54,7 +54,7 @@ border-color: transparent transparent #346B56;
     border-style: solid;
     border-width: 0 510px 443px;
     height: 0;
-    left: -10%;
+    left: -275px;
     top: 28%;
     width: 0;
 }
@@ -77,7 +77,7 @@ border-color: transparent transparent #346B56;
     border-style: solid;
     border-width: 0 600px 394px;
     height: 0;
-    left: 50%;
+    left: 648px;
     top: 33%;
     width: 0;
     
@@ -103,10 +103,10 @@ border-color: transparent transparent #346B56;
     border-style: solid;
     border-width: 0 495px 345px;
     height: 0;
-    left: 22%;
+    left: 299px;
     top: 35%;
     width: 0;
-    z-index: 1;
+    
     
 }
 
@@ -357,7 +357,7 @@ left: 42%;
 
 #scenery .busstop-sign {
 
-    top:55%;
+    /*top:55%;*/
     left:27%;
 }
 #scenery .busstop-sign .rod {
@@ -432,7 +432,7 @@ left: 42%;
     perspective: 1000px;
 
     z-index: 10;
-    left: 40%;
+    left: 38%;
 top: 62%;
 }
 
@@ -477,7 +477,7 @@ top: 62%;
    
     background-color: transparent;
     border: 0;
-    font-family: myFirstFont;
+    font-family: texasFont;
     font-size: 35px;
     font-weight: bold;
     left: 745px;
