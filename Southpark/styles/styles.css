@@ -29,6 +29,9 @@ html, body {
 .col-md-3 {
     width: 18%;
 }
+.media-only {
+    display: none;
+}
 @media only screen and (max-width: 1200px) {
     /* Styles */
     
@@ -46,5 +49,6 @@ html, body {
         left: 50%;
         width:75%;
         transform: translate(-50%, -50%);
+        display: block;
     }
 }
