@@ -22,9 +22,6 @@ body {
     src: url("Squares.otf") format("opentype");
 }
 
-@viewport {
- 
-  }
 section {
     margin-bottom: 10%;
     text-align: center;
@@ -118,12 +115,12 @@ span.molar {
     font-size: 18px;
     margin: 30px auto;
     padding: 20px 0 15px 65px;
-    width: 25%;
+    width: 30%;
 }
 p.bg-success {
     margin: 0 auto 25px;
     padding: 15px 0 15px 45px;
-    width: 19%;
+    width: 24%;
     border-radius: 6px;
     font-size: 18px;
     background: url("../images/jp1.png") no-repeat scroll 8px 8px / 40px 65px #f2dede;
